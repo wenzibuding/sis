@@ -22,6 +22,16 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "996ys",
+      "name": "996影视(JS)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "/js/996影视.js"
+    },
+    {
       "key": "YGP",
       "name": "🚀叨观荐影┃速递",
       "type": 3,
