@@ -983,7 +983,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "直播",
+      "name": "看直播",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
@@ -1001,6 +1001,30 @@
         }
       ],
       "epg":"http://epg.51zmt.top:8000/api/diyp/"
+    },
+        {
+      "name": "直播1",
+      "type": 0,
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "url": "https://youdu.fan/yd/tvlive1.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+    {
+      "name": "大栗子",
+      "type": 0,
+      "url": "http://154.3.2.66:8889/down/E34QHahKo6GD.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    },
+        {
+      "name": "大栗子卫视",
+      "type": 0,
+      "url": "http://154.3.2.66:8889/down/80sOI0SMaQ8I.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ]
 }
