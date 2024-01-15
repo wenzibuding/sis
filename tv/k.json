@@ -640,7 +640,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/初中课堂.json"
+      "ext": "https://wp.szyyds.cn/f/3dMC9/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -654,7 +654,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/高中课堂.json"
+      "ext": "https://wp.szyyds.cn/f/xWrSa/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     }
   ],
   "parses": [
@@ -970,7 +970,7 @@
         {
       "name": "SAO0",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/tvlive.txt",
+      "url": "https://wp.szyyds.cn/f/Dr5cb/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -979,7 +979,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/ipv6.m3u",
+      "url": "https://wp.szyyds.cn/f/Z9OtQ/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
