@@ -268,7 +268,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/jp.js"
     },
     {
@@ -343,7 +343,7 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/88看球.js",
       "style": {
         "type": "list"
@@ -356,7 +356,7 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/jrk.js",
       "style": {
         "type": "list"
@@ -369,8 +369,8 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
+      "ext": "https://wp.szyyds.cn/f/XJoiG/310%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "list"
       },
@@ -389,13 +389,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/企鹅直播.json"
+      "ext": ".https://wp.szyyds.cn/f/lOzie/企鹅直播.json"
     },
     {
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -423,7 +423,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/虎牙直播.js",
       "style": {
         "type": "rect",
@@ -437,7 +437,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -451,7 +451,7 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -461,7 +461,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -590,7 +590,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
       "style": {
         "type": "rect",
