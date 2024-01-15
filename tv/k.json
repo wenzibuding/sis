@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/nmys.json"
     },
     {
       "key": "Cokemv",
@@ -269,7 +269,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/jp.js"
     },
     {
       "key": "新6V",
@@ -344,7 +344,7 @@
       "name": "⚽ 88┃看球",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/88看球.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -357,7 +357,7 @@
       "name": "⚽ Jrs┃球迷",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/jrk.js",
       "style": {
         "type": "list"
       },
@@ -396,7 +396,7 @@
       "name": "🎤酷奇┃MV",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -417,14 +417,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/MTV.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -438,7 +438,7 @@
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -452,7 +452,7 @@
       "name": "📽️聚短┃视频",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/短视频.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -462,7 +462,7 @@
       "name": "🎧有声┃小说",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -570,7 +570,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -584,14 +584,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
       "api": "https://wp.szyyds.cn/f/bYACJ/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -612,7 +612,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -626,7 +626,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -640,7 +640,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -654,7 +654,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/高中课堂.json"
     }
   ],
   "parses": [
@@ -970,7 +970,7 @@
         {
       "name": "SAO0",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -979,7 +979,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wenzibuding/sis/main/tv/lib/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
