@@ -40,6 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "spider": "https://szyyds.cn/tv/cc.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
       "ext": "https://mas.szyyds.cn/api.php/app/"
     },
     {"key": "yc","name": "4KHDR站-B","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"},
