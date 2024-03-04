@@ -21,6 +21,12 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+	  {"key":"csp_xpath_yinfans",
+         "name":"💥音范丝4K",
+         "type":3,"api":"csp_XPath"，
+        "searchable":1,"quickSearch":1， 
+	"filterable":1,"ext":"./lib/音范丝.json"
+         },
     {
       "key": "996ys",
       "name": "996影视(JS)",
